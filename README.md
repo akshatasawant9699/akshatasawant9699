@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshatasawant02/"><img src="https://img.shields.io/badge/LinkedIn-15K%2B%20followers-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Author-MuleSoft%20(2%20editions)-00A0DF?style=flat&logo=mulesoft&logoColor=white" alt="Author"/>
+  <a href="https://www.amazon.co.uk/dp/B0DMFKFC5T"><img src="https://img.shields.io/badge/Author-MuleSoft%20for%20Salesforce%20Developers-00A0DF?style=flat&logo=mulesoft&logoColor=white" alt="Author of MuleSoft for Salesforce Developers"/></a>
   <img src="https://img.shields.io/badge/Speaker-Dreamforce%20%C2%B7%20TDX-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Speaker"/>
 </p>
 
 ---
 
-I help developers and architects build **secure, AI-ready integrations and agents** on Salesforce: writing, speaking, and shipping open-source examples. My work covers Agentforce, MCP, the Headless Experience Layer, Data Cloud Document AI and MuleSoft. I've co-authored two editions of a MuleSoft book and have run MuleSoft meetups in Mumbai and London for 7+ years.
+I help developers and architects build **secure, AI-ready integrations and agents** on Salesforce: writing, speaking, and shipping open-source examples. My work covers Agentforce, MCP, the Headless Experience Layer, Data Cloud Document AI and MuleSoft. I co-authored [*MuleSoft for Salesforce Developers*](https://www.amazon.co.uk/dp/B0DMFKFC5T) (two editions) and have run MuleSoft meetups in Mumbai and London for 7+ years.
 
 ## 🔨 Now building
 
@@ -60,7 +60,7 @@ It's an MCP server that lets an LLM agent look up accounts, summarise open cases
 
 - **Dreamforce** and **TrailblazerDX** speaker
 - **Oxford AI Summit 2025**: Autonomous Agents
-- **Co-author**, two editions of a MuleSoft book
+- 📚 **Co-author, *MuleSoft for Salesforce Developers***: [2nd edition](https://www.amazon.co.uk/dp/B0DMFKFC5T) · [1st edition](https://www.amazon.co.uk/dp/B0B1V8VYVJ)
 - **MuleSoft Meetup Leader**: London (2021–present) and Mumbai (2019–present)
 - **MuleSoft Ambassador** (2020–2022)
 - LinkedIn articles: *Processing Unstructured Data with Document AI* (Aug 2025), *First Look at Agentforce 3.0* (Jun 2025)
