@@ -13,7 +13,7 @@
 
 ---
 
-I help developers build with **AI agents and integrations** on Salesforce: writing, speaking, and shipping open-source examples. My work covers Agentforce, MCP, Data Cloud Document AI and MuleSoft. I've co-authored two editions of a MuleSoft book and have run MuleSoft meetups in Mumbai and London for 7+ years.
+I help developers and architects build **secure, AI-ready integrations and agents** on Salesforce: writing, speaking, and shipping open-source examples. My work covers Agentforce, MCP, the Headless Experience Layer, Data Cloud Document AI and MuleSoft. I've co-authored two editions of a MuleSoft book and have run MuleSoft meetups in Mumbai and London for 7+ years.
 
 ## 🔨 Now building
 
@@ -33,18 +33,41 @@ It's an MCP server that lets an LLM agent look up accounts, summarise open cases
 | [**mulesoft-agentforce-connector**](https://github.com/akshatasawant9699/mulesoft-agentforce-connector) | Agentforce + MuleSoft integration for AI-powered conversational interfaces over your APIs | MuleSoft · Java |
 | [**focusflow**](https://github.com/akshatasawant9699/focusflow) | Open-source, self-hostable focus companion for ADHD brains | Next.js · TypeScript · Postgres |
 
-## ✍️ Writing & speaking
+## ✍️ Latest on the Salesforce Developers Blog
 
-- 📚 **Co-author**, two editions of a MuleSoft book
-- 📄 **Processing Unstructured Data with Document AI** (Aug 2025)
-- 📄 **First Look at Agentforce 3.0** (Jun 2025)
-- 🎤 **Oxford AI Summit 2025**: Autonomous Agents
-- 🎤 Sessions at **Dreamforce** and **TrailblazerDX**
-- 👥 **MuleSoft Meetup Leader**: London (2021–present) and Mumbai (2019–present)
+**AI agents, MCP & AI-assisted development**
+- [Expose HXL Widgets to Slackbot with a Custom MCP Server](https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server) · Nov 2026
+- [Building Interactive UI with Headless Experience Layer](https://developer.salesforce.com/blogs/2026/10/building-interactive-ui-with-hxl) · Oct 2026
+- [Build Production-Ready Apps in Claude Code with Salesforce Skills](https://developer.salesforce.com/blogs/2026/06/build-production-ready-apps-in-claude-code-with-salesforce-skills) · Jun 2026 ([日本語](https://developer.salesforce.com/blogs/2026/08/build-production-ready-apps-in-claude-code-with-salesforce-skills-jp))
+- [Build and Manage Agents with Agentforce Python SDK](https://developer.salesforce.com/blogs/2025/09/build-and-manage-agents-with-agentforce-python-sdk) · Sep 2025
+- [Integrate Data Cloud's Document AI with Agentforce](https://developer.salesforce.com/blogs/2025/09/integrate-data-clouds-document-ai-with-agentforce) · Sep 2025
+- [Process Unstructured Data with Document AI](https://developer.salesforce.com/blogs/2025/08/process-unstructured-data-with-document-ai) · Aug 2025
+
+**Integration & APIs**
+- [Explore MuleSoft for Agentforce with Topic Center and API Catalog](https://developer.salesforce.com/blogs/2025/06/explore-mulesoft-for-agentforce-with-topic-center-and-api-catalog) · Jun 2025
+- [Accelerate Your MuleSoft Journey with AI](https://developer.salesforce.com/blogs/2024/01/accelerate-your-mulesoft-journey-with-ai) · Jan 2024
+- [Revamping MuleSoft Anypoint Platform APIs in Postman](https://developer.salesforce.com/blogs/2023/11/mulesoft-anypoint-platform-apis-postman) · Nov 2023
+- [MuleSoft Innovations for Developers: Learn MOAR Summer '23](https://developer.salesforce.com/blogs/2023/05/mulesoft-innovations-for-developers-learn-moar-summer-23) · May 2023
+- [Zero Trust Security for Your APIs Using MuleSoft](https://developer.salesforce.com/blogs/2023/04/zero-trust-security-for-your-apis-using-mulesoft) · Apr 2023
+
+## 🎬 Videos: Agentforce Decoded (Salesforce Developers)
+
+- [Build and Manage Agents with Agentforce Python SDK](https://www.youtube.com/watch?v=rQPuJvLhsk0)
+- [Integrate Data Cloud's Document AI with Agentforce](https://www.youtube.com/watch?v=N48sT3jg9p8)
+- [Explore MuleSoft for Agentforce with Topic Center and API Catalog](https://www.youtube.com/watch?v=_rkKH_pokj4)
+
+## 🎤 Speaking & community
+
+- **Dreamforce** and **TrailblazerDX** speaker
+- **Oxford AI Summit 2025**: Autonomous Agents
+- **Co-author**, two editions of a MuleSoft book
+- **MuleSoft Meetup Leader**: London (2021–present) and Mumbai (2019–present)
+- **MuleSoft Ambassador** (2020–2022)
+- LinkedIn articles: *Processing Unstructured Data with Document AI* (Aug 2025), *First Look at Agentforce 3.0* (Jun 2025)
 
 ## 🏅 Certifications
 
-Salesforce Certified AI Associate · MuleSoft Certified Integration Architect · Pragmatic Institute PMC Level I · MuleSoft Ambassador (2020–2022)
+Salesforce Certified AI Associate · MuleSoft Certified Integration Architect · MuleSoft Certified Developer, Level 1 · Pragmatic Institute PMC Level I
 
 ## 🛠️ Toolbox
 
