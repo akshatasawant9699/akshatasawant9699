@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Developer Advocate @ Salesforce</b> · London<br/>
-  AI agents · MCP · LLM evals · Document AI · MuleSoft integration
+  AI agents · MCP · LLM evals · Salesforce · MuleSoft · Agentforce
 </p>
 
 <p align="center">
