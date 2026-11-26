@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://akshatasawant.dev"><img src="https://img.shields.io/badge/Website-akshatasawant.dev-222222?style=flat&logo=googlechrome&logoColor=white" alt="Website: akshatasawant.dev"/></a>
   <a href="https://www.linkedin.com/in/akshatasawant02/"><img src="https://img.shields.io/badge/LinkedIn-15K%2B%20followers-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.amazon.co.uk/dp/B0DMFKFC5T"><img src="https://img.shields.io/badge/Author-MuleSoft%20for%20Salesforce%20Developers-00A0DF?style=flat&logo=mulesoft&logoColor=white" alt="Author of MuleSoft for Salesforce Developers"/></a>
   <img src="https://img.shields.io/badge/Speaker-Dreamforce%20%C2%B7%20TDX-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Speaker"/>
@@ -67,7 +68,7 @@ It's an MCP server that lets an LLM agent look up accounts, summarise open cases
 
 ## 🏅 Certifications
 
-Salesforce Certified AI Associate · MuleSoft Certified Integration Architect · MuleSoft Certified Developer, Level 1 · Pragmatic Institute PMC Level I
+[Claude Certified Associate – Foundations](https://www.credly.com/badges/a8c5eb32-151c-4c69-9182-ce10b6c5b3ac/public_url) (Anthropic, 2026) · Salesforce Certified AI Associate · MuleSoft Certified Integration Architect · MuleSoft Certified Developer, Level 1 · Pragmatic Institute PMC Level I
 
 ## 🛠️ Toolbox
 
